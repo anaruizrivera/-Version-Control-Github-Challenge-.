@@ -1,0 +1,18 @@
+Ana Ruiz Rivera 
+Weekly Challenges 
+
+ 
+1. Explain what terminal is in your own words.
+
+Terminal is a computer system that allows you to modify information in your computers, files and folders that you had created or made. Terminal helps you navigate into your computer, is faster and powerful. Everything you do in your computer you can do in Terminal. 
+
+2. What is the major difference between Git and Github?
+
+The major difference between Git and Github is that Git is a storage of rulers that tell the files where to connect, and if it's “git init” it will be telling to connect to the Github. Github is a website where you can save any project, you also can share your project with a group of people to work on different parts of the projects.
+GITHUB can also be considered as a folder online that can store all your projects or any work. This can be easy to use since you can use someone's code that has been already made or your own project that you are sharing with a group of people to work on.
+
+
+3. Why do we use Github?
+We use Github to work on different parts of any projects and it's better to store any project for different people to work on. I consider Github as a teamwork because you can came together with all your ideas and work.
+
+
